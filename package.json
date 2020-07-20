@@ -1,0 +1,7 @@
+{
+  "name": "@AvocadoHQ/avocado-js",
+  "version": "0.1.0",
+  "description": "Javascript functionality for Avocado",
+  "main": "index.js",
+  "author": "Adrian Marin <adrian@adrianthedev.com>"
+}
