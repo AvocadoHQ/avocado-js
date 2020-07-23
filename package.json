@@ -4,6 +4,9 @@
   "description": "Javascript functionality for Avocado",
   "main": "index.js",
   "author": "Adrian Marin <adrian@adrianthedev.com>",
+  "scripts": {
+    "test": "yarn -v"
+  },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
