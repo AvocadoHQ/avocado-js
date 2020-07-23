@@ -1,5 +1,5 @@
 {
-  "name": "@AvocadoHQ/avocado-js",
+  "name": "@avocadohq/avocado-js",
   "version": "0.1.2",
   "description": "Javascript functionality for Avocado",
   "main": "index.js",
@@ -21,5 +21,13 @@
     "eslint-plugin-sort-imports-es6-autofix": "^0.5.0",
     "eslint-plugin-import": "^2.20.2",
     "eslint-plugin-vue": "^6.2.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AvocadoHQ/avocado-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AvocadoHQ/avocado-js/issues"
+  },
+  "homepage": "https://github.com/AvocadoHQ/avocado-js#readme"
 }
