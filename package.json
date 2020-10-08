@@ -1,9 +1,9 @@
 {
   "name": "@avocadohq/avocado-js",
-  "version": "0.1.3",
-  "description": "Javascript functionality for Avocado",
+  "version": "0.1.4",
+  "description": "Javascript functionality for Avo",
   "main": "index.js",
-  "author": "Adrian Marin <adrian@adrianthedev.com>",
+  "author": "Adrian Marin <adrian@avohq.io>",
   "scripts": {
     "test": "yarn -v"
   },
