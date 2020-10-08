@@ -1,6 +1,6 @@
 {
   "name": "@avo-hq/avo-js",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "description": "Javascript functionality for Avo",
   "main": "index.js",
   "author": "Adrian Marin <adrian@avohq.io>",
